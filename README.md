@@ -1,3 +1,3 @@
 # Wordle clone for Malay (Bahasa Malaysia)
-
-Modified from https://github.com/hannahcode/wordle
+Original wordle https://www.powerlanguage.co.uk/wordle/
+This project is modified from https://github.com/hannahcode/wordle
