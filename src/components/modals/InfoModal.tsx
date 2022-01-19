@@ -66,38 +66,42 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
                       of the tiles will change to show how close your guess was
                       to the word.
                     </p>
+                    <p className="text-sm text-gray-500"> - </p>
+                    <p className="text-sm text-gray-500">
+                    Meneka WORDLE dalam 6 percubaan. Selepas setiap tekaan, warna jubin akan berubah untuk menunjukkan seberapa dekat tekaan anda dengan perkataan.
+                    </p>
 
                     <div className="flex justify-center mb-1 mt-4">
                       <Cell value="W" status="correct" />
-                      <Cell value="E" />
                       <Cell value="A" />
-                      <Cell value="R" />
-                      <Cell value="Y" />
+                      <Cell value="K" />
+                      <Cell value="T" />
+                      <Cell value="U" />
                     </div>
                     <p className="text-sm text-gray-500">
                       The letter W is in the word and in the correct spot.
                     </p>
 
                     <div className="flex justify-center mb-1 mt-4">
-                      <Cell value="P" />
-                      <Cell value="I" />
-                      <Cell value="L" status="present" />
-                      <Cell value="O" />
-                      <Cell value="T" />
+                      <Cell value="J" />
+                      <Cell value="A" />
+                      <Cell value="W" status="present" />
+                      <Cell value="A" />
+                      <Cell value="B" />
                     </div>
                     <p className="text-sm text-gray-500">
-                      The letter L is in the word but in the wrong spot.
+                      The letter W is in the word but in the wrong spot.
                     </p>
 
                     <div className="flex justify-center mb-1 mt-4">
-                      <Cell value="V" />
+                      <Cell value="C" />
                       <Cell value="A" />
-                      <Cell value="G" />
-                      <Cell value="U" status="absent" />
-                      <Cell value="E" />
+                      <Cell value="K" />
+                      <Cell value="A" status="absent" />
+                      <Cell value="P" />
                     </div>
                     <p className="text-sm text-gray-500">
-                      The letter U is not in the word in any spot.
+                      The letter A is not in the word in any spot.
                     </p>
                   </div>
                 </div>
