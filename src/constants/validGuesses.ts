@@ -2033,6 +2033,7 @@ export const VALIDGUESSES = [
   'segau',
   'sejak',
   'sejuk',
+  f
   'sekah',
   'sekam',
   'sekin',
@@ -2063,6 +2064,7 @@ export const VALIDGUESSES = [
   'sikik',
   'sikin',
   'silah',
+  'silap',
   'silam',
   'silia',
   'siluk',
