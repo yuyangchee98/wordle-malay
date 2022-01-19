@@ -1,5 +1,5 @@
 {
-  "name": "wordle",
+  "name": "wordle-malay",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,7 +46,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.2",
     "postcss": "^8.4.5",
-    "tailwindcss": "^3.0.12",
-    "prettier": "^2.5.1"
+    "prettier": "^2.5.1",
+    "tailwindcss": "^3.0.12"
   }
 }
