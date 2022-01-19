@@ -2032,6 +2032,7 @@ export const VALIDGUESSES = [
   'segah',
   'segau',
   'sejak',
+  'sejuk',
   'sekah',
   'sekam',
   'sekin',
