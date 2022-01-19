@@ -390,4 +390,5 @@ export const VALIDGUESSES = [
   'baris',
   'beres',
   'sopan',
+  'cikgu',
 ]

@@ -390,4 +390,5 @@ export const WORDS = [
   'baris',
   'beres',
   'sopan',
+  'cikgu',
 ]
