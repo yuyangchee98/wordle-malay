@@ -260,6 +260,8 @@ export const WORDS = [
   'damai',
   'lulus',
   'basah',
+  'tolak',
+  'sejuk',
   'rumit',
   'sinar',
   'hakim',
