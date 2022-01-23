@@ -1490,6 +1490,7 @@ export const VALIDGUESSES = [
   'linau',
   'linen',
   'lipan',
+  'lipat',
   'lipas',
   'liris',
   'lisah',
