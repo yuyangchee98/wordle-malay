@@ -2050,6 +2050,7 @@ export const VALIDGUESSES = [
   'harus',
   'pergi',
   'dalam',
+  'datuk',
   'hanya',
   'ingin',
   'semua',
