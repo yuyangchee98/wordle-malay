@@ -108,6 +108,7 @@ export const WORDS = [
   'jenis',
   'tutup',
   'tahan',
+  'dadah',
   'tanda',
   'jumpa',
   'janji',
