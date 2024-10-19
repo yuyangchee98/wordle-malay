@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.yaaaang.malay_wordle.twa",
+        "sha256_cert_fingerprints": ["4B:B6:18:B1:B8:24:76:18:FB:D7:08:E1:F1:BC:50:10:C1:07:16:2E:66:13:4F:62:7F:14:01:E5:41:0B:39:AA"]
+      }
+    }]
