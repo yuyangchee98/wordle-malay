@@ -8,6 +8,4 @@ Word list source:
 
 This project is modified from https://github.com/hannahcode/wordle
 
-Try it out here: https://malay-wordle.yaaaang.com/
-
-Send me an email if you have any questions: malay-wordle@yaaaang.com
+Try it out here: https://malay-wordle.chyuang.com/
