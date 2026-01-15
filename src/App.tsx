@@ -114,7 +114,17 @@ function App() {
   return (
     <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
       <div className="flex w-80 mx-auto items-center mb-8">
-        <h1 className="text-xl grow font-bold"><i>Malay</i> Wordle</h1>
+        <h1 className="text-xl grow font-bold">
+          <i>Malay</i> Wordle
+        </h1>
+        <a
+          href="https://congkak.chyuang.com/daily/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mr-2 px-2 py-1 text-xs text-black border border-black rounded hover:bg-black hover:text-white"
+        >
+          Try <span className="font-medium">Congkak Daily</span>
+        </a>
         <InformationCircleIcon
           className="h-6 w-6 cursor-pointer"
           onClick={() => setIsInfoModalOpen(true)}
